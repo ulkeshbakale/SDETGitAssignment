@@ -6,7 +6,12 @@ new file under test branch
 edited....
 merge changes.....
 changes committed
+<<<<<<< HEAD
 
 >>>>>>> test
 
 new commit for merge
+=======
+new committed
+merge to conflict situation
+>>>>>>> test
