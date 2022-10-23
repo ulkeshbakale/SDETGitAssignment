@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 new test......
+=======
+
+new file under test branch
+edited....
+merge changes.....
+
+>>>>>>> test
